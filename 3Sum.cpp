@@ -58,6 +58,7 @@ vector<vector<int>> threeSumToPointer(vector<int> nums) {
 }
 
 //Optimize Approach
+// Not work proper  Check  in Future
 
 vector<vector<int>> threeSum(vector<int> nums) {
     set<vector<int>> res;
